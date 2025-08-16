@@ -35,7 +35,7 @@ CloudFront? The overachiever who always wants to be closer to you.
 ---
 
 📫 Let’s Connect  
-- 🌐 [[LinkedIn](https://www.linkedin.com/in/faith-dakwa-1b70a8156/)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/faith-dakwa-1b70a8156/)  
 - 💌 faithfdakwa@gmail.com  
 
 ---
