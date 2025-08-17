@@ -17,7 +17,7 @@ Welcome to my little corner of GitHub, where I turn cloud ideas into working pro
 🎨 Current Experiments  
 🔹 Designing a Web Based Music Player 
 🔹 Building a 3 tier Architecture with Terraform (IaC labs for beginners)  
-🔹 Creating easy to follow video on system design and architecture (AWS , Azure , GCP)
+🔹 Creating easy to follow videos on system design and architecture (AWS , Azure , GCP)
 
 ---
 
