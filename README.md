@@ -7,7 +7,7 @@ Welcome to my little corner of GitHub, where I turn cloud ideas into working pro
 ---
 
 🚀 What I Do  
-- 🛠️ Build end-to-end AWS solutions.  
+- 🛠️ Build end-to-end Cloud solutions.  
 - 🌀 Experiment with Terraform, serverless apps & automation.  
 - 📊 Play with FinOps dashboards like they’re game leaderboards.  
 - 🎬 Create fun content where AWS services become characters.  
