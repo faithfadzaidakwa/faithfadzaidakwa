@@ -15,14 +15,14 @@ Welcome to my little corner of GitHub, where I turn cloud ideas into working pro
 ---
 
 🎨 Current Experiments  
-🔹 Designing a Travel Claims Workflow
-🔹 Building a Terraform Playground (IaC labs for beginners)  
-🔹 Sketching an AWS "the office based" sitcom scripts identifying each service and its attributes  🎭 (yes, CloudFront has drama)  
+🔹 Designing a Web Based Music Player 
+🔹 Building a 3 tier Architecture with Terraform (IaC labs for beginners)  
+🔹 Creating easy to follow video on system design and architecture (AWS , Azure , GCP)
 
 ---
 
 🛠️ Toolbox  
-AWS | Security | Terraform | Azure | Serverless | FinOps | Kubernetes 
+AWS | Security | Terraform | Azure | Serverless | FinOps | Kubernetes | Google Cloud
 
 ---
 
@@ -39,5 +39,3 @@ CloudFront? The overachiever who always wants to be closer to you.
 - 💌 faithfdakwa@gmail.com  
 
 ---
-
-⭐️ Grab a coffee, explore the repos, and let’s build cool stuff together.☕✨
